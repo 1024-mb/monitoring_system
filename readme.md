@@ -23,7 +23,7 @@ It features real-time graphs, averages, warnings, and a toggleable warning light
 
 ## Key Features
 
-- Real-time temperature and humidity monitoring  
+- Real-time temperature and humidity monitorinxg  
 - OLED display with multiple views:
   - Current readings
   - 120-second and 240-minute graphs
@@ -41,9 +41,7 @@ It features real-time graphs, averages, warnings, and a toggleable warning light
 ## Project Structure
 
 ```
-├── main.cpp             # Main ESP32 program
-├── fonts/               # Custom fonts for OLED display
-├── icons/               # Bitmaps for temperature and humidity
+├── main.ino             # Main ESP32 program
 └── README.md
 ```
 
@@ -88,7 +86,7 @@ git clone <your-repo-link>
 cd ESP32-Dashboard
 ```
 
-2. Open `main.cpp` in Arduino IDE  
+2. Open `main.ino` in Arduino IDE  
 
 3. Set WiFi credentials (AP mode optional):  
 ```cpp
