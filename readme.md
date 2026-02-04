@@ -1,6 +1,6 @@
 # ESP32 Environment Dashboard
 
-⚠️ 20-second demo: https://youtu.be/D_WVxfMUiTU
+⚠️ 20-second demo: [https://youtu.be/D_WVxfMUiTU](https://www.youtube.com/watch?v=e0G6_B0aGiI&list=PLnL6WpWjTSrJmPOEB30jLO2XghAlz9ZEn&index=1)
 
 ESP32 Environment Dashboard is a full-featured monitoring system for temperature and humidity, with an OLED display, alerts, and a web dashboard hosted directly from the ESP32.
 
